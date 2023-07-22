@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "name": "Metro OS",
+  "description": "A Simulated OS (simu)",
+  "type": "web",
+  "launch_path": "/github.com/puggamer96/metroforkai/blob/main/index.html",
+  "icons": {
+    "56": "/img/icon-56.png",
+    "112": "/img/icon-112.png"
+  },
+  "developer": {
+    "name": "Pugz Gamez",
+    "url": "https://sites.google.com/view/sugarcookie-simu/home"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Metro OS",
+      "subtitle": "simu",
+      "description": "A simulated OS (simu)"
+    }
+  },
+  "default_locale": "en-US"
+  }
+  "categories": {
+    "games",
+    "entertainment"
+}
